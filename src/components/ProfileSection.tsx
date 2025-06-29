@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { MapPin, Phone, Mail, Calendar, School } from 'lucide-react';
 
@@ -25,28 +26,28 @@ const ProfileSection = () => {
                 <MapPin className="h-6 w-6 text-blue-600 mt-1" />
                 <div>
                   <p className="font-semibold text-gray-800">Alamat</p>
-                  <p className="text-gray-600">Jl. Veteran No. 1, Cikampek, Karawang, Jawa Barat</p>
+                  <p className="text-gray-600">JL. VETERAN NO. 1, CIKAMPEK UTARA, KEC. CIKAMPEK UTARA, KABUPATEN KARAWANG, JAWA BARAT</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <Phone className="h-6 w-6 text-blue-600 mt-1" />
                 <div>
                   <p className="font-semibold text-gray-800">Telepon</p>
-                  <p className="text-gray-600">(0267) 431234</p>
+                  <p className="text-gray-600">02674502644</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <Mail className="h-6 w-6 text-blue-600 mt-1" />
                 <div>
                   <p className="font-semibold text-gray-800">Email</p>
-                  <p className="text-gray-600">info@sman1cikampek.sch.id</p>
+                  <p className="text-gray-600">sman1_cikampek@yahoo.co.id</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <Calendar className="h-6 w-6 text-blue-600 mt-1" />
                 <div>
                   <p className="font-semibold text-gray-800">Didirikan</p>
-                  <p className="text-gray-600">1985</p>
+                  <p className="text-gray-600">1984</p>
                 </div>
               </div>
             </div>
@@ -55,11 +56,11 @@ const ProfileSection = () => {
           <div className="space-y-6">
             <div className="bg-white p-6 rounded-xl shadow-lg">
               <h4 className="text-xl font-bold text-gray-800 mb-3">Kepala Sekolah</h4>
-              <p className="text-gray-600">Drs. Ahmad Suherman, M.Pd</p>
+              <p className="text-gray-600">Drs. H. MULYADI, M.Pd.</p>
             </div>
             <div className="bg-white p-6 rounded-xl shadow-lg">
               <h4 className="text-xl font-bold text-gray-800 mb-3">Status Sekolah</h4>
-              <p className="text-gray-600">Negeri - Terakreditasi A</p>
+              <p className="text-gray-600">Negeri</p>
             </div>
             <div className="bg-white p-6 rounded-xl shadow-lg">
               <h4 className="text-xl font-bold text-gray-800 mb-3">NPSN</h4>

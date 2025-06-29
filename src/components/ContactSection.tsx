@@ -26,8 +26,9 @@ const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold mb-1">Alamat</h4>
                   <p className="text-blue-100">
-                    Jl. Veteran No. 1, Cikampek<br />
-                    Karawang, Jawa Barat 41373
+                    JL. VETERAN NO. 1, CIKAMPEK UTARA<br />
+                    KEC. CIKAMPEK UTARA, KABUPATEN KARAWANG<br />
+                    JAWA BARAT
                   </p>
                 </div>
               </div>
@@ -38,7 +39,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold mb-1">Telepon</h4>
-                  <p className="text-blue-100">(0267) 431234</p>
+                  <p className="text-blue-100">02674502644</p>
                 </div>
               </div>
 
@@ -48,7 +49,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold mb-1">Email</h4>
-                  <p className="text-blue-100">info@sman1cikampek.sch.id</p>
+                  <p className="text-blue-100">sman1_cikampek@yahoo.co.id</p>
                 </div>
               </div>
 

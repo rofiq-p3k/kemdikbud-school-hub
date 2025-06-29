@@ -23,9 +23,10 @@ const Footer = () => {
               berkarakter mulia, serta siap menghadapi tantangan global.
             </p>
             <div className="text-sm text-gray-400">
-              <p>Jl. Veteran No. 1, Cikampek, Karawang, Jawa Barat</p>
-              <p>Telepon: (0267) 431234</p>
-              <p>Email: info@sman1cikampek.sch.id</p>
+              <p>JL. VETERAN NO. 1, CIKAMPEK UTARA, KEC. CIKAMPEK UTARA</p>
+              <p>KABUPATEN KARAWANG, JAWA BARAT</p>
+              <p>Telepon: 02674502644</p>
+              <p>Email: sman1_cikampek@yahoo.co.id</p>
             </div>
           </div>
 
