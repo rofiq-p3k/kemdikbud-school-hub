@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { MapPin, Phone, Mail, Calendar } from 'lucide-react';
+import { MapPin, Phone, Mail, Calendar, School } from 'lucide-react';
 
 const ProfileSection = () => {
   return (

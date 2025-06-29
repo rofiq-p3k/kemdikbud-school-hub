@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { ArrowRight, Award, Users, BookOpen } from 'lucide-react';
+import { ArrowRight, Award, Users, BookOpen, School } from 'lucide-react';
 
 const HeroSection = () => {
   return (
